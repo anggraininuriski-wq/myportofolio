@@ -6,7 +6,7 @@ Let me introduce myself, I'm **ANGGRAENI NOOR RIZKY**. On this occasion, I'd lik
 
 ## 🚀 Live Demo
 
-**Website Link:** ((https://anggraininuriski-wq.github.io/myportofolio/))
+**Website Link:** [((https://anggraininuriski-wq.github.io/myportofolio/))]
 
 ## 🛠️ Tech Stack
 
@@ -239,8 +239,8 @@ If you have any questions or need help with the setup, feel free to reach out\!
 
 **ANGGRAENI NOOR RIZKY**
 
-  - Website: (https://anggraininuriski-wq.github.io/myportofolio/)
-  - GitHub: [ANR](https://anggraininuriski-wq.github.io/myportofolio/)
+  - Website: [(https://anggraininuriski-wq.github.io/myportofolio/)]
+  - GitHub: [(https://anggraininuriski-wq.github.io/myportofolio/)]
 
 -----
 
